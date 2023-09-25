@@ -1,0 +1,13 @@
+{:demo
+ {:en {:radio-button-label "click-me"
+       :button-label  "Press me"
+       :greet "Hello Thank you, %1 for providing your name!"}
+  :fr {:check-box-label "Cliquez sur moi !"
+       :button-label "Pressez-moi!"
+       :greet "Bonjour Merci, %1 pour avoir fourni votre nom !"}
+  :pl {:check-box-label "Kliknij!"
+       :button-label "Naciśnij mnie!"
+       :greet "Cześć Dziękujemy, %1 za podanie imienia!"}
+  :es {:check-box-label "¡Haz click en mi!"
+       :button-label "¡Presionarme!"
+       :greet "\nHola, gracias, %1 por proporcionar su nombre."}}}

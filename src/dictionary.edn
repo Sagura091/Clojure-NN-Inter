@@ -1,0 +1,38 @@
+{:demo
+ {:en
+  {:radio-button-label "click-me",
+   :button-label "Press me",
+   :greet "Hello Thank you, %1 for providing your name!",
+   :Grid "I am a spreadsheet",
+   :Button-Toggle
+   "Hello My name is Blake Bergstrom I am a Software engineer"},
+  :fr
+  {:check-box-label "Cliquez sur moi !",
+   :button-label "Pressez-moi!",
+   :greet "Bonjour Merci, %1 pour avoir fourni votre nom !",
+   :radio-button-label "click-me",
+   :Grid "Je suis un tableur",
+   :Button-Toggle
+   "Bonjour Je m'appelle Blake Bergstrom et je suis ingénieur logiciel."},
+  :pl
+  {:check-box-label "Kliknij!",
+   :dbutton-label "Naciśnij mnie!",
+   :greet "Cześć Dziękujemy, %1 za podanie imienia!",
+   :radio-button-label "kliknij mnie",
+   :Grid "Jestem arkuszem kalkulacyjnym",
+   :Button-Toggle
+   "Witam, nazywam się Blake Bergstrom i jestem inżynierem oprogramowania."},
+  :es
+  {:check-box-label "¡Haz click en mi!",
+   :button-label "¡Presionarme!",
+   :greet "\nHola, gracias, %1 por proporcionar su nombre.",
+   :radio-button-label "click-me",
+   :Button-Toggle
+   "Hola Me llamo Blake Bergstrom Soy ingeniero de software"},
+  :ja {:Button-Toggle "こんにちは、ブレイク・バーグストロームです。"},
+  :fi
+  {:Button-Toggle
+   "Hei Nimeni on Blake Bergstrom Olen ohjelmistoinsinööri"},
+  :de
+  {:Button-Toggle
+   "Hallo, mein Name ist Blake Bergstrom, ich bin Software-Ingenieur"}}}
